@@ -80,7 +80,8 @@ http://31.172.87.38:2200/EX/MUTV_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3n
 
 #EXTINF:-1 group-title="Astra",LFC TV
 http://31.172.87.52:2200/EX/LFCTV_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6478.png" group-title="Astra",Sky Atlantic sd
+
+#EXTINF:-1 tvg-logo="https://ia802908.us.archive.org/25/items/skyatlantic_202004/sky%20atlantic.png" group-title="Astra",Sky Atlantic sd
 http://31.172.87.52:2200/EX/Sky_Atlantic_SD-uk/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 
